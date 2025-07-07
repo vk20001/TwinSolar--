@@ -52,4 +52,4 @@ The TwIn Solar project aims to revolutionize solar energy integration through ad
 ## Instructions to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/TwInSolar-Project.git
+   git clone https://github.com/vk20001/TwinSolar--.git
